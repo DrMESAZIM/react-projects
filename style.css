@@ -1,0 +1,24 @@
+
+*{
+	margin: auto;
+	padding:10px ;
+	
+}
+.main{
+	justify-content: center;
+	text-align: center;
+	background-color:lightgrey;
+}
+.main ul li{
+	text-decoration: none;
+	list-style: none;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
